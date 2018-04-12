@@ -25,9 +25,11 @@ This programe will be run everyday, so you can upload on your server.
 
 I upload some data in file named data, if you need it, feel free to download it.
 
-# If you have any question, feel free to contact me:
+If you have any question, feel free to contact me:
 
 QQ:1063876676
 
-# If you think my work is useful, please give me a star! 
-# Thank you!
+# PS:
+
+If you think my work is useful, please give me a star! 
+Thank you!
